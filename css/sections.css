@@ -154,7 +154,7 @@
   padding: 20px; background: var(--rose-50);
   border-radius: var(--radius-sm); border: 1px solid var(--rose-100);
 }
-.contact-item-icon { font-size: 22px; flex-shrink: 0; }
+.contact-item-icon { font-size: 22px; flex-shrink: 0; width: 40px;}
 .contact-item-label { font-size: 11px; color: var(--text-soft); letter-spacing: 0.1em; margin-bottom: 3px; }
 .contact-item-val { font-size: 15px; color: var(--text); font-weight: 500; }
 .contact-form { display: flex; flex-direction: column; gap: 16px; }
